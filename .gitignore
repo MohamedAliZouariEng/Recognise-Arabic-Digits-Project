@@ -1,0 +1,15 @@
+# Environment
+venv/
+.env
+
+# Python / Jupyter
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+
+# Data (too big / has its own license, document how to get it in the README)
+arabic/
+
+# OS / editor
+.DS_Store
+.vscode/
